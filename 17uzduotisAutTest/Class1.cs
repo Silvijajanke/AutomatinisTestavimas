@@ -19,5 +19,12 @@ namespace _17uzduotisAutTest
             Assert.AreEqual(expectedResults, actualRezults);
 
         }
-    }
+        [Test]
+        public void Test2()
+        {
+            bool IsWednesday = false;
+            Assert.IsTrue(IsWednesday);
+        }
+    } 
+
 }
