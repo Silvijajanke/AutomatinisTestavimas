@@ -10,8 +10,9 @@ namespace _17uzduotisAutTest
     {
         static public double Divide(double number1)
         {
-            return Math.Round((double)number1 / 3,3) ;
+            return Math.Round((double)number1 / 3, 3);
         }
-        
+
+
     }
 }
